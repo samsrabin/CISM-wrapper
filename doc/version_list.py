@@ -22,10 +22,15 @@ VERSION_LIST = [
         landing_version=True,
         ref=LATEST_REF,
     ),
-    # DocsVersion(
-    #     short_name="release-clm5.0",
-    #     display_name="CLM5.0",
-    #     ref="release-clm5.0",
-    # ),
+    DocsVersion(
+        short_name="release-cesm2.0",
+        display_name="CESM2.0",
+        ref="release-cesm2.0",
+    ),
+    DocsVersion(
+        short_name="cism-release-cesm2.1",
+        display_name="CESM2.1",
+        ref="cism-release-cesm2.1",
+    ),
 ]
 # End version definitions (keep this comment; Sphinx is looking for it)
