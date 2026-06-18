@@ -25,12 +25,12 @@ VERSION_LIST = [
     DocsVersion(
         short_name="release-cesm2.0",
         display_name="CESM2.0",
-        ref="release-cesm2.0",
+        ref="release-cesm2.0-build-docs",
     ),
     DocsVersion(
         short_name="cism-release-cesm2.1",
         display_name="CESM2.1",
-        ref="cism-release-cesm2.1",
+        ref="cism-release-cesm2.1-build-docs",
     ),
 ]
 # End version definitions (keep this comment; Sphinx is looking for it)
