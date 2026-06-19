@@ -88,7 +88,7 @@ fxtag = v0.5.1
 [submodule "doc-builder"]
 	path = doc/doc-builder
 	url = https://github.com/ESMCI/doc-builder
-fxtag = v3.5.1
+fxtag = v3.5.2
 fxrequired = ToplevelOptional
 # Standard Fork to compare to with "git fleximod test" to ensure personal forks aren't committed
 fxDONOTUSEurl = https://github.com/ESMCI/doc-builder
